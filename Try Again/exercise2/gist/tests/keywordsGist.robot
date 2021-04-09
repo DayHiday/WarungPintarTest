@@ -11,7 +11,7 @@ Open Gist
     Click element                           xpath=/html/body/div[1]/div/div[5]/a[1]
     Wait Until Element Is Visible           id=login_field
     Input Text                              id=login_field              tamanbungamami@gmail.com 
-    Input Text                              id=password                 fr13nd52021
+    Input Text                              id=password                 warung2021
     Click Element                           class=btn
     Wait Until Element Is Visible           id=user-links
     Wait Until Element Is Visible           class=p-nickname
